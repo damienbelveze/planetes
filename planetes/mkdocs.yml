@@ -1,0 +1,17 @@
+site_name: planetes
+nav:
+  - Home: index.md
+  - About: about.md
+plugins:
+  - pub-obsidian:
+      obsidian_dir: docs/.obsidian
+      templates_dir: docs/_templates
+      backlinks:
+        enabled: true
+      callouts:
+        enabled: true
+      indentation: spaces
+      links:
+        wikilinks_enabled: true
+        img_lazy: true
+  

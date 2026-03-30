@@ -1,0 +1,18 @@
+{
+  "templater-obsidian:modeles/modele_fiche.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F10"
+    }
+  ],
+  "templater-obsidian:_templates/modele_fiche.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F10"
+    }
+  ]
+}
